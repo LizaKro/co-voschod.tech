@@ -22,7 +22,7 @@
 body {
   background: linear-gradient(45deg, #2D572C, #3E5F8A, #725f40, #6c6c4f);
   background-size: 400% 400%;
-  animation: gradient 15s ease infinite;
+  animation: gradient 6s ease infinite;
   min-height: 100vh;
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;

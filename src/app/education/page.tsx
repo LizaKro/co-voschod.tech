@@ -7,7 +7,7 @@ export default function EducationPage() {
           {/* Здесь будут карточки с программами обучения */}
           <div className="bg-white/10 backdrop-blur-sm p-6 rounded-lg shadow-md border border-white/20">
             <h2 className="text-xl font-semibold mb-2 text-white">Программа 1</h2>
-            <p className="text-white/80">Описание программы обучения</p>
+            <p className="text-white/80">Дополнительные занятия в технопарке</p>
           </div>
         </div>
       </div>

@@ -7,8 +7,11 @@ import Gears from "./components/Gears";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Технопарк",
-  description: "Центр образования 'Восход'",
+  title: "Технопарк ВОСХОД",
+  description: "Технопарк Центра образования ВОСХОД",
+  icons: {
+    icon: '/gear.svg',
+  },
 };
 
 export default function RootLayout({
