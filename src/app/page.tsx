@@ -37,7 +37,7 @@ export default function Home() {
             Технопарк
           </h1>
           <span className={`text-lg text-white ${playfair.className}`}>
-            Центра образования "ВОСХОД"
+            Центра образования «ВОСХОД»
           </span>
         </div>
       </div>
